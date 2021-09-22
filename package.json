@@ -1,0 +1,23 @@
+{
+  "name": "tailwind-first-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-tailwind": "tailwindcss build -i src/style.css -o public/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NtwaliHeritier/tailwind-first-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NtwaliHeritier/tailwind-first-app/issues"
+  },
+  "homepage": "https://github.com/NtwaliHeritier/tailwind-first-app#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.15"
+  }
+}
